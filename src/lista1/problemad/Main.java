@@ -38,8 +38,4 @@ public class Main {
 
         sc.close();
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 17cebc6f7348b8e9d9ae85d15ee9e1a44eb59908
