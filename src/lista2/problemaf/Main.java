@@ -1,4 +1,4 @@
-package lista2.problemaA;
+package lista2.problemaf;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
